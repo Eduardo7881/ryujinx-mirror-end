@@ -1,0 +1,25 @@
+Hi EduardoPlayss121,
+
+GitHub Trust & Safety is contacting you for a second and final time because we've received a DMCA takedown notice regarding the following content:
+
+https://github.com/Eduardo7881/ryujinx-mirror
+
+You can see the DMCA takedown notice that we received here, which includes the complainant's requested changes to your repository:
+
+<a href="https://raw.githubusercontent.com/Eduardo7881/ryujinx-mirror-end/refs/heads/main/DMCA.rtf" download="nintendo-dmca.rtf">[DMCA.rtf]</a>
+
+We want to make clear that it is never our desire or goal to take down open source projects, but instead to help developers address DMCA concerns with their projects. To that end, you have some options:
+
+1. If you choose to make changes in response to this takedown notice, you'll have 1 business day to make the requested changes. Once you've made the changes, please reply to this message and let us know. If you don't tell us that you've made changes within the next 1 business day, we'll need to disable the entire repository according to our GitHub DMCA Takedown Policy - https://docs.github.com/en/github/site-policy/dmca-takedown-policy
+
+If you need to remove specific content from your repository, simply making the repository private or deleting it via a commit won't resolve the alleged infringement. Instead, you must follow these instructions to remove the content from your repository's history, even if you don't think it's sensitive - https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/removing-sensitive-data-from-a-repository
+
+2. If you believe your content on GitHub was mistakenly identified by a DMCA takedown request, you have the right to contest the takedown by submitting a counter notice, as described in our DMCA Takedown Policy - https://docs.github.com/en/github/site-policy/dmca-takedown-policy
+
+It is important that you reply to this message within 1 business day regardless of which option you choose. If you do not, the repository will be disabled.
+
+Please let us know if you have any questions or need any help removing the content.
+
+Regards,
+
+GitHub Trust & Safety
