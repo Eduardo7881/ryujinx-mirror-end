@@ -12,4 +12,7 @@ and GreemDev's Ryubing project
 If i could someway upload these files 🤔
 
 # Links
-See DMCA.rtf for more details.
+See <a href="https://raw.githubusercontent.com/Eduardo7881/ryujinx-mirror-end/refs/heads/main/DMCA.rtf" download="nintendo-dmca.rtf">DMCA.rtf</a> for more details.
+
+# EMAIL
+See <a href="https://raw.githubusercontent.com/Eduardo7881/ryujinx-mirror-end/refs/heads/main/email.txt">Email.txt</a> for more details
